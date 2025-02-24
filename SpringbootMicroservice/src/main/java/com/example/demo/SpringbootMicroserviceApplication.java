@@ -8,7 +8,7 @@ public class SpringbootMicroserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootMicroserviceApplication.class, args);
-		//to tst from springboot IDE
+		System.out.println("this is main application");
 	}
 
 }
